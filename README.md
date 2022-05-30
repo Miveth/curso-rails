@@ -34,5 +34,6 @@ Instrucciones
 - rails db:migrate 
 - rails db:seed
 - rails webpacker:install
+- rails s
 
 ccc
